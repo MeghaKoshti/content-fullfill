@@ -120,7 +120,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## 📬 Contact
 
-For support or feature requests, open an issue or contact [your-email@example.com](mailto:your-email@example.com).
+For support or feature requests, open an issue or contact [megha.koshti@outlook.com](mailto:megha.koshti@outlook.com]).
 
 ---
 
